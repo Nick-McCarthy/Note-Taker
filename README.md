@@ -15,14 +15,18 @@
  
  ## Usage 
  
- caption: 
+ caption: home page working
 <br>
-![<img src=".jpg" width="250"/>](images/.jpg)
+![<img src="homepage.jpg" width="250"/>](images/homepage.jpg)
 <br>
-caption: 
+caption: notes page working
 <br>
-![<img src=".jpg" width="250"/>](images/.jpg)
-
+![<img src="notepage.jpg" width="250"/>](images/notepage.jpg)
+<br>
+caption: notes page working
+<br>
+![<img src="savednote.jpg" width="250"/>](images/savednote.jpg)
+<br>
  ## License 
  MIT License 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
