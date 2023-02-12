@@ -23,7 +23,7 @@ caption: notes page working
 <br>
 ![<img src="notespage.jpg" width="250"/>](images/notespage.jpg)
 <br>
-caption: notes page working
+caption: demonstrating saved note
 <br>
 ![<img src="savednote.jpg" width="250"/>](images/savednote.jpg)
 <br>
