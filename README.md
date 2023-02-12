@@ -21,7 +21,7 @@
 <br>
 caption: notes page working
 <br>
-![<img src="notepage.jpg" width="250"/>](images/notepage.jpg)
+![<img src="notespage.jpg" width="250"/>](images/notespage.jpg)
 <br>
 caption: notes page working
 <br>
