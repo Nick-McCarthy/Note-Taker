@@ -28,7 +28,11 @@ caption:
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
  ## Contributing 
  Michael Smith 
+ </br>
+ https://github.com/AustinBQ02
  Rebecca Girndt
+ </br>
+ https://github.com/Re-Gi
  ## Test 
  NA 
  ## Questions 
