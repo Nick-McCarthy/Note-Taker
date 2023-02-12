@@ -11,7 +11,7 @@
  - [Test](#test) 
  - [Questions](#questions) 
  ## Installation 
- run with express or view from deployed heroku page.
+ url:
  
  ## Usage 
  
